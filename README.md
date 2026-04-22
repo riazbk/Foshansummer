@@ -2,7 +2,7 @@
 </div>
 
 
-This is the website for my commercial client use
+This is the website built by me for my commercial client use
 # Created By Aahil-Riyaz
 
 ## Run Locally
